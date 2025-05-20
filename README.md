@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Rafael C. G. Conrado
 - Computer Science undergraduate @ University of Sao Paulo - USP
+- Interested in Data Science and Analytics, Databases and Software Engineering
 
 
 <!--
